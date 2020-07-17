@@ -1,0 +1,42 @@
+.wrap{
+    flex: 1;
+    .box{
+        width: 650px;
+        
+        margin: 0px auto;
+        padding: 40px 0px;
+        .title{
+            h1{
+                font-size: 24px;
+            }
+            p{
+                color: #999;
+                padding-top: 8px;
+                font-size: 13px;
+                
+            }
+        }
+        .photo{
+            padding: 20px 0px;
+            img{
+                text-align: right;
+                width: 583px;
+                height: 389px;
+                margin-top: 20px;
+                padding-bottom: 40px;
+            }
+            p{
+                text-align: right;
+                color:#999;
+                line-height: 1.5;
+                font-size: 16px;
+            }
+        }
+        .content{
+            p{
+                line-height: 1.5;
+                font-size: 16px;
+            }
+        }
+    }
+}

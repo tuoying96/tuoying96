@@ -1,0 +1,25 @@
+
+{
+    "code":200,
+    "msg": "REQUEST SUCCESSED!",
+    "data": [
+        {
+            "title":"Morro Bay",
+            "brief":"Beautiful Sunset In M1",
+            "address": "CA, United States",
+            "id":1
+        },
+        {
+            "title":"Haizi",
+            "brief":"Summer in Litang",
+            "address": "Sichuan, China",
+            "id":2
+        },
+        {
+            "title":"Manhattanhenge",
+            "brief":"Monment in 42 Street",
+            "address": "NY, United States",
+            "id":3
+        }
+    ]
+}
